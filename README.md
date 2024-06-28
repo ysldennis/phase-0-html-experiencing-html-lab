@@ -9,7 +9,7 @@
 
 How do we go about writing text for the web? How is that different from the text
 that we write in a text file? We're going to experience for ourselves how these
-things are different in this lab.
+things are different in this lab
 
 You don't need any prior knowledge of HTML for this lab. We're going to tell you
 what to type. Don't focus on specific commands or taking notes. Everything will
